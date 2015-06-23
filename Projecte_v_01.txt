@@ -1,0 +1,23 @@
+function QuantesLletresTe(VCadena) {
+
+	var NLletres
+	
+
+
+
+
+
+
+
+
+	return NLletres
+
+}
+
+var Cadena
+
+//demanar frase
+
+
+//cridar funcio
+alert(QuantesLletresTe(Cadena)
